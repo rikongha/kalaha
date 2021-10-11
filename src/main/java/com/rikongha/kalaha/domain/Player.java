@@ -10,7 +10,5 @@ import lombok.ToString;
 @AllArgsConstructor
 @ToString
 public class Player {
-//    public static final int PLAYER_1_ID = 1;
-//    public static final int PLAYER_2_ID = 2;
     private String name;
 }
